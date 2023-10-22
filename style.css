@@ -1,0 +1,42 @@
+body	{
+	background: grey;
+	color: black;
+	font-family:  Arial;
+	font-weight: 400;
+    font-size:  25px
+}
+h1	{
+	font-family: Helvetica;
+	font-weight: 1000;
+	font-size: 55px;
+	color: #696969;
+
+}
+h2	{font-family: Courier;
+	font-weight: 600;
+	font-size: 35px;
+	color: #677179;
+}
+a {text-decoration: none;
+	color: grey; 
+}
+a:hover {
+	background-color: black;
+	border-radius: 2px 4px 2px;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.imgcircle {
+	border-radius: 40%;
+}
+.bt-blue:{
+	background-color: black;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.bt-blue:{hover
+  background-color: hotpink;}
